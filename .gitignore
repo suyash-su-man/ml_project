@@ -9,3 +9,6 @@ __pycache__/
 
 # Ignore log files
 *.log
+
+# ignore package information files
+ml_project.egg-info/
